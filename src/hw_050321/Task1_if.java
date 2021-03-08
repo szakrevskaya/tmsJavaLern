@@ -2,6 +2,7 @@ package hw_050321;
 
 import java.util.Scanner;
 
+//Для названий классов лучше использовать camel-case mode - Task1IfConstruction (это не жесткое требование, скорее, дело вкуса, но код выглдядит читабельнее) 
 public class Task1_if {
     public void isOverlap() {
         Scanner in = new Scanner(System.in);
